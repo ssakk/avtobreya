@@ -1,0 +1,1 @@
+В отдельном файле [тетрадка с решением](https://github.com/ssakk/avtobreya/blob/main/4_year/hw1/autobreya1.ipynb), в отдельном -- [парсер](https://github.com/ssakk/avtobreya/blob/main/4_year/hw1/parser.py) + [сохраненные значения](https://github.com/ssakk/avtobreya/blob/main/4_year/hw1/meanings.json)
